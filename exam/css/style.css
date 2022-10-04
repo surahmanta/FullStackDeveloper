@@ -1,0 +1,15 @@
+.banyak_dilihat{
+    display:flex;
+    flex-direction:column;
+}
+.text-rata{
+    text-align:justify;
+}
+a{
+    text-decoration: none;
+    color:chartreuse;
+}
+.gambar-kanan{
+    width: 80px;
+    height: 80px;
+}
